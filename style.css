@@ -1,0 +1,14 @@
+
+#IdYourArea {
+    width: 25rem;
+    height: 7rem;
+}
+
+#tabForAlphabet {
+    margin-top: 2rem;
+    border: 2px solid black;
+}
+#tabForWords {
+    margin-top: 2rem;
+    border: 2px solid black;
+}
